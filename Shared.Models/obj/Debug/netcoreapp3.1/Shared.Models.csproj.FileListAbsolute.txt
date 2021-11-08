@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\RabbitMQInMicroservices\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.deps.json
+C:\Users\User\source\repos\RabbitMQInMicroservices\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.dll
+C:\Users\User\source\repos\RabbitMQInMicroservices\Shared.Models\bin\Debug\netcoreapp3.1\Shared.Models.pdb
+C:\Users\User\source\repos\RabbitMQInMicroservices\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RabbitMQInMicroservices\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.AssemblyInfo.cs
+C:\Users\User\source\repos\RabbitMQInMicroservices\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RabbitMQInMicroservices\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.dll
+C:\Users\User\source\repos\RabbitMQInMicroservices\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.pdb
+C:\Users\User\source\repos\RabbitMQInMicroservices\Shared.Models\obj\Debug\netcoreapp3.1\Shared.Models.csprojAssemblyReference.cache
